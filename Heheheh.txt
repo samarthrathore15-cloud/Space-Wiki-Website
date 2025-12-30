@@ -1,0 +1,5 @@
+Footer — #020617
+Sidebar — #1E293B
+Navigation Bar — #0F172A
+Advertisement Bar — #CBD5E1
+Main — #F8FAFC
